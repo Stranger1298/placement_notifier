@@ -1,4 +1,4 @@
-# 🎓 Placement Management System
+# 🎓 Placement Notifier System
 
 A modern, full-stack web application for automating placement notifications to eligible students based on company requirements. The system streamlines the recruitment process by allowing administrators to upload student data and automatically notify qualified candidates via email.
 
